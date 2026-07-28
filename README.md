@@ -1,1 +1,1 @@
-# 528391.xyz
+Static assets.
